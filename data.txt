@@ -1,0 +1,10 @@
+question;answer
+Hvordan søker jeg om boliglån?;Du kan søke om boliglån på våre nettsider under "Søk Boliglån"
+Jeg ønsker å søke om boliglån. Hvordan gjør jeg dette?
+Hvordan kan jeg få boliglån?
+Jeg ønsker å kjøpe bolig. Hvordan får jeg lån?
+For å kjøpe en leilighet trenger jeg lån. Hvordan får jeg dette?
+Jeg skal kjøpe et hus i Oslo og trenger lån til dette. 
+Hvordan får jeg forbrukslån?;Du kan søke om forbrukslån på vår nettside. 
+Kan jeg søke om forbrukslån?;Ja, du kan søke om et forbrukslån på våre nettsider. 
+Kan jeg betale tilbake lånet mitt etter jeg har tatt boliglån?; Ja, du kan betale tilbake lånet når du ønsker. 
