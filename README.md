@@ -3,7 +3,7 @@ Home made chatbot
 
 <br>
 
-NLP sentence pipeline:
+**NLP sentence pipeline**:
 - Tokenization
 - Lower case
 - Remove noise tokens
@@ -13,11 +13,11 @@ NLP sentence pipeline:
 
 <br>
 
-Model (Support Vector Classifier from SKLearn):
+**Model (Support Vector Classifier from SKLearn)**:
 - SVC(kernel='linear', degree=5)
 
 <br>
 
-Similarity function:
+**Similarity function**:
 - cosine_similarity of feature vector
 - similarity treshold = 0.2
