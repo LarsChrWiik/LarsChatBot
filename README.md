@@ -1,5 +1,5 @@
 # LarsChatBot
-Home made chatbot
+Home made chatbot using NLTK. 
 
 <br>
 
