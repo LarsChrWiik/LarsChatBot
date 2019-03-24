@@ -1,5 +1,5 @@
 # LarsChatBot
-Home made chatbot using NLTK. 
+Home made chatbot using NLTK
 
 <br>
 
@@ -7,7 +7,7 @@ Home made chatbot using NLTK.
 - Tokenization
 - Lower case
 - Remove noise tokens
-- Remove noise within tokens.
+- Remove noise within tokens
 - Remove stop words
 - Stemming
 
